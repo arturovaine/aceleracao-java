@@ -8,136 +8,136 @@ Seções
 
 ## Essenciais de Java
 
--Java - o que é, de onde veio e pra onde vai? Hoje, logo adiante!
+- Java - o que é, de onde veio e pra onde vai? Hoje, logo adiante!
 
--Variáveis e seus tipos
+- Variáveis e seus tipos
 
--Estruturas condicionais e de repetição
+- Estruturas condicionais e de repetição
 
--Finalmente, o "Hello, world!" em Java!
+- Finalmente, o "Hello, world!" em Java!
 
--Desafio agregador
+- Desafio agregador
 
--Conhecendo melhor o Eclipse (lição extra 🚀)
+- Conhecendo melhor o Eclipse (lição extra 🚀)
 
 ## Orientação a objetos
 
--Abstração - as Classes em Java
+- Abstração - as Classes em Java
 
--Getters e Setters
+- Getters e Setters
 
--Encapsulamento e Herança
+- Encapsulamento e Herança
 
--Polimorfismo
+- Polimorfismo
 
--Interfaces e Classes Abstratas
+- Interfaces e Classes Abstratas
 
--Desafio agregador
+- Desafio agregador
 
 ## Manipulação de textos e arquivos
 
--Leitura e escrita em arquivos
+- Leitura e escrita em arquivos
 
--Lidando com Strings
+- Lidando com Strings
 
--Desafio agregador
+- Desafio agregador
 
 ## Tratamento de erros
 
--Try/Catch! As exceções que Java lança e as formas de pegá-las
+- Try/Catch! As exceções que Java lança e as formas de pegá-las
 
--Refinando seu tratamento de erros
+- Refinando seu tratamento de erros
 
--Desafio agregador
+- Desafio agregador
 
 ## Coleções
 
--List e Set
+- List e Set
 
--Map
+- Map
 
--Streams: o que são e como criá-las
+- Streams: o que são e como criá-las
 
--Operando sobre Streams
+- Operando sobre Streams
 
--Desafio agregador
+- Desafio agregador
 
 ## Datas
 
--Datas com horários
+- Datas com horários
 
--Operações sobre datas ou horários
+- Operações sobre datas ou horários
 
 Desafio agregador
 
 ## Gestão de Dependências
 
--Maven e Gradle
+- Maven e Gradle
 
--Desafio agregador
+- Desafio agregador
 
 ## Testes com JUnit 5
 
--Testes unitários com JUnit 5
+- Testes unitários com JUnit 5
 
--TDD com JUnit 5
+- TDD com JUnit 5
 
--Desafio agregador
+- Desafio agregador
 
 ## ORM - Hibernate
 
--Criando entidades
+- Criando entidades
 
--Relacionamentos e consultas
+- Relacionamentos e consultas
 
--Desafio agregador
+- Desafio agregador
 
 # Java Web
 
--Como o Java vai para a Web?
+- Como o Java vai para a Web?
 
--Logs e Datasources
+- Logs e Datasources
 
--Fazendo deploy de uma aplicação
+- Fazendo deploy de uma aplicação
 
--Desafio agregador
+- Desafio agregador
 
 ## Spring
 
--Introdução ao Spring e Spring Boot
+- Introdução ao Spring e Spring Boot
 
--Injeção de Dependências e organização de uma aplicação Spring
+- Injeção de Dependências e organização de uma aplicação Spring
 
--REST, SQL e NoSQL
+- REST, SQL e NoSQL
 
--Testes no Spring
+- Testes no Spring
 
--Deploy da Aplicação Spring com Railway!
+- Deploy da Aplicação Spring com Railway!
 
--Desafio agregador
+- Desafio agregador
 
 ## Quarkus
 
--Introdução ao Quarkus
+- Introdução ao Quarkus
 
--API C.R.U.D com tratamento de exceções
+- API C.R.U.D com tratamento de exceções
 
--Testes com JUnit e Deploy no Railway
+- Testes com JUnit e Deploy no Railway
 
--Desafio agregador
+- Desafio agregador
 
 ## Containers
 
--Java e Docker
+- Java e Docker
 
--Desafio agregador
+- Desafio agregador
 
 ## Desafio Final
 
--Introdução
+- Introdução
 
--Tema 1
+- Tema 1
 
--Tema 2
+- Tema 2
 
--Feedbacks
+- Feedbacks
